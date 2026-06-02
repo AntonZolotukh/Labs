@@ -16,3 +16,56 @@
 | 6 | Коллекции | Топ-10 слов, стек, учёт продаж | [/6_Коллекции](./6_Коллекции) |
 | 7 | Многопоточность | Сумма массива, поиск в матрице, грузчики | [/7_Многопоточность](./7_Многопоточность) |
 | 8 | Аннотации и Stream API | Многопоточная обработка данных с аннотациями | [/8_Аннотации](./8_Аннотации) |
+# Структура репозитория
+
+## CrossPlatformLabs/
+- README.md
+- .gitignore
+- 1_Базовые_алгоритмы/
+  - Primes.java
+  - Palindrome.java
+  - README.md
+- 2_ООП/
+  - Shape.java
+  - Sphere.java
+  - Cylinder.java
+  - RectangularPrism.java
+  - Main.java
+  - README.md
+- 3_Хэш-таблицы/
+  - HashTable.java
+  - Contact.java
+  - PhoneBook.java
+  - README.md
+- 4_Исключения/
+  - ArrayAverage.java
+  - FileCopy.java
+  - CustomInputMismatchException.java
+  - ExceptionLogger.java
+  - CustomInputMismatchDemo.java
+  - README.md
+- 5_Регулярные_выражения/
+  - NumberFinder.java
+  - PasswordValidator.java
+  - CapitalLetterFinder.java
+  - IPValidator.java
+  - WordsByLetterFinder.java
+  - README.md
+- 6_Коллекции/
+  - TopWords.java
+  - Stack.java
+  - SalesTracker.java
+  - README.md
+- 7_Многопоточность/
+  - ArraySum.java
+  - MatrixMax.java
+  - Warehouse.java
+  - README.md
+- 8_Аннотации/
+  - DataProcessor.java
+  - DataManager.java
+  - FilterProcessor.java
+  - TransformProcessor.java
+  - AggregateProcessor.java
+  - Main.java
+  - README.md
